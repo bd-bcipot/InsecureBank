@@ -7,3 +7,9 @@ build.xml
 /.apt_generated_tests/
 agent.config
 hdivAgentLog.hlg
+.vscode/
+
+
+# Coverity
+.codesight
+.bridge
